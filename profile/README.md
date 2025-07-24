@@ -12,14 +12,6 @@ Welcome to **TwiggleLabs**, a forward-thinking EdTech organization dedicated to 
 
 **Twiggle** is an AI-powered e-learning platform built for students in **Classes 5 to 10**. It provides a smart, interactive, and personalized learning experience that evolves with each student.
 
-### 🎯 Key Features
-
-- **Personalized Learning Paths**: Tailored lessons and exercises based on individual student performance and learning style.
-- **AI-Generated Practice Questions**: Custom practice material aligned with each student's strengths and weaknesses.
-- **Progress Tracking**: Real-time analytics for students, parents, and teachers to monitor learning progress.
-- **Interactive Content**: Engaging videos, quizzes, and activities designed to make learning fun and effective.
-- **Multilingual Support**: Learn in your preferred language for better understanding and comfort.
-
 ---
 
 ## 🧑‍🎓 Who It's For
