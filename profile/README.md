@@ -8,7 +8,7 @@ Welcome to **TwiggleLabs**, a forward-thinking EdTech organization dedicated to 
 
 ---
 
-## 📚 Our Product — Twiggle
+## 📚 Twiggle
 
 **Twiggle** is an AI-powered e-learning platform built for students in **Classes 5 to 10**. It provides a smart, interactive, and personalized learning experience that evolves with each student.
 
