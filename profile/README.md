@@ -1,6 +1,6 @@
-# 🌟 TwiggleLabs
+# TwiggleLabs
 
-Welcome to **TwiggleLabs**, a forward-thinking EdTech organization dedicated to transforming the way students learn using the power of Artificial Intelligence.
+Welcome to **TwiggleLabs**, a forward-thinking EdTech organization dedicated to transforming the way students learn.
 
 ## 🚀 About Us
 
