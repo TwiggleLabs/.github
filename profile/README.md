@@ -1,6 +1,13 @@
-# TwiggleLabs
+<p align="center">
+  <img src="TwiggleFullLogo.svg" alt="TwiggleLabs Logo" width="300"/>
+</p>
 
-Welcome to **TwiggleLabs**, a forward-thinking EdTech organization dedicated to transforming the way students learn.
+<h1 align="center">TwiggleLabs</h1>
+
+<p align="center">
+  Transforming Learning with AI-Powered Personalization for Students.
+
+---
 
 ## 🚀 About Us
 
@@ -19,5 +26,3 @@ Welcome to **TwiggleLabs**, a forward-thinking EdTech organization dedicated to 
 - Students in **Grades 5 to 10**
 - Parents who want to support their child's academic growth
 - Schools looking to integrate smart technology into their curriculum
-
----
