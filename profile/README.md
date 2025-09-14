@@ -4,13 +4,13 @@
 
 # TwiggleLabs
 
-## 🚀 Who We Are
+## 🏢 Who We Are
 
 **TwiggleLabs** is a forward thinking EdTech organization dedicated to transforming how students learn. Our mission is to make education more **adaptive**, **engaging**, and **effective** through the power of Artificial Intelligence.
 
 We believe every student learns differently and with the right tools, every student can thrive. That’s why we’re creating technology that evolves with learners, supporting them at every step of their academic journey.
 
-## 📚 Our Product — Twiggle
+## 📚 Twiggle
 
 **Twiggle** is an AI powered e-learning platform designed for students in **Grades 5 to 10**. It offers a dynamic, personalized learning environment that adapts to each learner's pace, style, and understanding.
 
