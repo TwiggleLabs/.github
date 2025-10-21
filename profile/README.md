@@ -24,6 +24,6 @@ We believe every student learns differently and with the right tools, every stud
 
 Twiggle is built for:
 
-- **Students (Grades 4–9)** looking to strengthen their understanding through guided, engaging content
+- **Students (Grades 3–8)** looking to strengthen their understanding through guided, engaging content
 - **Parents** who want better visibility into their child’s academic progress and personalized support
 - **Schools & Educators** aiming to integrate AI enhanced tools into their classrooms
