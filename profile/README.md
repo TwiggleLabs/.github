@@ -12,7 +12,7 @@ We believe every student learns differently and with the right tools, every stud
 
 ## What is Twiggle?
 
-**Twiggle** is an AI powered e-learning platform designed for students in **Grades 3 to 8**. It offers a dynamic, personalized learning environment that adapts to each learner's pace, style, and understanding.
+Our product **Twiggle** is an AI powered e-learning platform designed for students in **Grades 3 to 8**. It offers a dynamic, personalized learning environment that adapts to each learner's pace, style, and understanding.
 
 ### Key Features:
 -  **Smart Content**: Curriculum aligned lessons enriched with visuals and interactivity
