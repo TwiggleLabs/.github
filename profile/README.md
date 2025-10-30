@@ -2,11 +2,9 @@
   <img src="TwiggleFullLogo.svg" alt="TwiggleLabs Logo" width="300"/>
 </p>
 
-# TwiggleLabs
-
 ## About Us
 
-TwiggleLabs is an EdTech company committed to transforming how students learn. Our mission is to make education more adaptive, engaging and effective through the use of artificial intelligence. We believe every student learns differently — with the right tools, every student can succeed.
+Twiggle Labs is an EdTech company committed to transforming how students learn. Our mission is to make education more adaptive, engaging and effective through the use of artificial intelligence. We believe every student learns differently — with the right tools, every student can succeed.
 
 ## Our Product – Twiggle
 
