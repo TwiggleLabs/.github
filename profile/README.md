@@ -4,26 +4,32 @@
 
 # TwiggleLabs
 
-## Who We Are?
+## About Us
 
-**TwiggleLabs** is a forward thinking EdTech organization dedicated to transforming how students learn. Our mission is to make education more **adaptive**, **engaging**, and **effective** through the power of **Artificial Intelligence**.
+TwiggleLabs is an EdTech company committed to transforming how students learn. Our mission is to make education more adaptive, engaging and effective through the use of artificial intelligence. We believe every student learns differently — with the right tools, every student can succeed.
 
-We believe every student learns differently and with the right tools, every student can thrive. That’s why we’re creating technology that evolves with learners, supporting them at every step of their academic journey.
+## Our Product – Twiggle
 
-## What is Twiggle?
+Twiggle is an AI-powered e-learning platform designed for students in Grades 3 through 8. It offers a personalized learning environment that adapts to each learner’s pace, style and understanding.
 
-Our product **Twiggle** is an AI powered e-learning platform designed for students in **Grades 3 to 8**. It offers a dynamic, personalized learning environment that adapts to each learner's pace, style, and understanding.
+### Key Features
 
-### Key Features:
--  **Smart Content**: Curriculum aligned lessons enriched with visuals and interactivity
--  **Adaptive Learning Paths**: Personalized journeys based on student performance and behavior
--  **Progress Insights**: Real-time dashboards for students, parents, and educators
--  **Practice & Evaluation**: Intelligent quizzes and assessments to reinforce understanding
+* **Smart Content**: Curriculum-aligned lessons enriched with visuals and interactive elements.
+* **Adaptive Learning Paths**: Learning journeys that evolve in response to student performance and behaviour.
+* **Progress Insights**: Real-time dashboards for students, parents and educators to monitor progress and engagement.
+* **Practice & Evaluation**: Intelligent quizzes and assessments that reinforce learning and identify gaps.
 
-## Who It's For?
+## Who We Serve
 
-Twiggle is built for:
+* Students in Grades 3–8 seeking to strengthen understanding through guided, engaging ‘smart’ content.
+* Parents who want visibility into their child’s academic progress and personalised support.
+* Schools and educators looking to integrate AI-enhanced tools into their classrooms.
 
-- **Students (Grades 3–8)** looking to strengthen their understanding through guided, engaging content
-- **Parents** who want better visibility into their child’s academic progress and personalized support
-- **Schools & Educators** aiming to integrate AI enhanced tools into their classrooms
+## Our Vision
+
+We aim to create a world where learning feels intuitive, technology supports rather than distracts, and education becomes truly personal.
+
+## Explore More
+
+Visit our website for more details: [Twiggle Labs](https://lively-forest-0a14df900.1.azurestaticapps.net/)
+For inquiries: [twigglelabs@gmail.com](mailto:twigglelabs@gmail.com)
