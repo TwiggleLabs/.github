@@ -29,6 +29,6 @@ We aim to create a world where learning feels intuitive, technology supports rat
 
 ## Explore More
 
-Visit our website for more details: [Twiggle Labs](https://lively-forest-0a14df900.1.azurestaticapps.net/)
+Visit our website for more details: [Twiggle Labs](https://www.twigglelabs.in)
 
 For inquiries: [twigglelabs@gmail.com](mailto:twigglelabs@gmail.com)
