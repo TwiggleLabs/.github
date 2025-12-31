@@ -27,7 +27,7 @@ Twiggle is an AI-powered e-learning platform designed for students in Grades 3 t
 
 We aim to create a world where learning feels intuitive, technology supports rather than distracts, and education becomes truly personal.
 
-## Explore More
+## Learn More
 
 Visit our website for more details: [Twiggle Labs](https://www.twigglelabs.in)
 
