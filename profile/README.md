@@ -31,6 +31,6 @@ We aim to create a world where learning feels intuitive, technology supports rat
 
 Visit our website for more details: [Twiggle Labs](https://www.twigglelabs.in)
 
-Visit Twiggle here: [Twiggle](https://twiggle.twigglelabs.in)
+Check out Twiggle: [Twiggle](https://twiggle.twigglelabs.in)
 
 For inquiries: [twigglelabs@gmail.com](mailto:twigglelabs@gmail.com)
