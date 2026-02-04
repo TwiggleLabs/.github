@@ -2,7 +2,7 @@
   <img src="TwiggleFullLogo.svg" alt="TwiggleLabs Logo" width="300"/>
 </p>
 
-## About Us
+## About
 
 Twiggle Labs is committed to transforming how students learn. Our mission is to make education more adaptive, engaging and effective through the use of artificial intelligence. We believe every student learns differently and with the right tools, every student can succeed.
 
